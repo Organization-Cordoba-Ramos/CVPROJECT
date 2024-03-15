@@ -1,2 +1,2 @@
-# CVPROJECT
+# CV-PROJECT
 Personal cv website
