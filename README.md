@@ -1,4 +1,5 @@
 # CV-PROJECT
+<<<<<<< HEAD
 This is a cv website.
 [Rocio Cordoba CV Website](https://organization-cordoba-ramos.github.io/CVPROJECT/)
 
@@ -48,7 +49,3 @@ Functional and Regression test results and report for each project release.
 * [Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf) 
 * [Regression Test Results 1.1](/qa/1.1regressiontestresult.pdf)
 
-
-## AUTHOR
-Reyes Cuesta, QA Engineer
-[LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
