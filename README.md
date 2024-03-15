@@ -49,3 +49,6 @@ Functional and Regression test results and report for each project release.
 * [Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf) 
 * [Regression Test Results 1.1](/qa/1.1regressiontestresult.pdf)
 
+## AUTHOR
+Rocio Cordoba, QA Engineer
+[LinkedIn Profile](https://www.linkedin.com/in/rocio-cordoba-ramos-34b47a93)
