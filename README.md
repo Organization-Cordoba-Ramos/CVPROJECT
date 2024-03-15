@@ -1,5 +1,5 @@
 # CV-PROJECT
-<<<<<<< HEAD
+< HEAD
 This is a cv website.
 [Rocio Cordoba CV Website](https://organization-cordoba-ramos.github.io/CVPROJECT/)
 
