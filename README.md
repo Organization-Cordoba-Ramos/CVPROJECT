@@ -12,7 +12,7 @@ This project is using JIRA tool for project management and defect traking follow
 
 ## DEMO VIDEO
 This project includes a Demo Video of each functionallity developed.
-* [DEMO VIDEOS](/demovideos/)
+* [DEMO VIDEOS](/Demo/)
 ## TEST STRATEGY
 This project adopts BDD Methodology for testing.
 
@@ -34,19 +34,19 @@ This project adopts BDD Methodology for testing.
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Organization-Cordoba-Ramos_CVPROJECT&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Organization-Cordoba-Ramos_CVPROJECT)
 
 ### REGRESSION TEST PLAN
-[Regression Test Plan](/qa/regressiontestplan.pdf)
+[Regression Test Plan](Test-Plan/Funcional-test-plan-and-BDD-coverage.pdf)
 Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE AND LIVE DOCUMENTATION
-[BDD Test Coverage](/qa/bddtestcoverage.pdf)
-Complete Functional BDD test coverage of the project.and live documentation
+[BDD Test Coverage](/Test-Plan/Funcional-test-plan-and-BDD-coverage.pdf)
+Complete Functional BDD test coverage of the project and live documentation
 
 
 ### TEST RESULTS
 Functional and Regression test results and report for each project release.
 #### Release version 1.1
-* [Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf) 
-* [Regression Test Results 1.1](/qa/1.1regressiontestresult.pdf)
+* [Functional Test Results and Bug Report 1.1](Test-Result/Funcional-test-result-and-bug-report-release-1.1.pdf) 
+* [Regression Test Results 1.1](Test-Result/regression-test-results-release-1.1.pdf)
 
 ## AUTHOR
 Rocio Cordoba, QA Engineer
