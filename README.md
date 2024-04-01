@@ -34,7 +34,7 @@ This project adopts BDD Methodology for testing.
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Organization-Cordoba-Ramos_CVPROJECT&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Organization-Cordoba-Ramos_CVPROJECT)
 
 ### REGRESSION TEST PLAN
-[Regression Test Plan](Test-Plan/Funcional-test-plan-and-BDD-coverage.pdf)
+[Regression Test Plan](Test-Plan/regression-test-plan.pdf)
 Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE AND LIVE DOCUMENTATION
@@ -47,6 +47,10 @@ Functional and Regression test results and report for each project release.
 #### Release version 1.1
 * [Functional Test Results and Bug Report 1.1](Test-Result/Funcional-test-result-and-bug-report-release-1.1.pdf) 
 * [Regression Test Results 1.1](Test-Result/regression-test-results-release-1.1.pdf)
+
+#### Release version 1.1
+* [Functional Test Results and Bug Report 1.2](Test-Result/Funcional-test-result-and-bug-report-release-1.2.pdf) 
+* [Regression Test Results 1.2](Test-Result/regression-test-results-release-1.2.pdf)
 
 ## AUTHOR
 Rocio Cordoba, QA Manual
